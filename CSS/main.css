@@ -1,0 +1,68 @@
+h1{
+    color:rgb(168, 19, 51);
+    font-family: 'Caladea';
+    display: flex;
+    justify-content:center;
+}    
+
+h3{
+    color: black;
+    font-family: 'Caladea';
+    display: flex;
+    justify-content:center;
+}
+
+p{
+    color:black;
+    padding-left: 100px;
+}
+
+body {
+    background-color: rgb(98, 133, 139);
+    padding: 30px;
+    
+}
+
+ol{
+    padding-left: 150px;
+}
+
+ul{
+    padding-left: 150px;
+}
+
+
+.picture{
+    display:flex;
+    justify-content:center;
+}
+
+.NavBar{
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+    background-color: #c9c3bf;
+    font-family: 'Lacquer', sans-serif;
+}
+
+.NavItem{
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.NavItem:hover{
+    background:rgb(126, 133, 139);
+}
+
+#SingleText{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+#video{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
